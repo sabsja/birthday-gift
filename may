@@ -178,7 +178,7 @@ footer{padding:4rem 1.5rem;text-align:center;display:flex;flex-direction:column;
 <!-- GATE -->
 <div id="gate">
   <div class="gate-lock">&#128274;</div>
-  <div class="gate-title">This is just for you, Ate &#x1F90D;</div>
+  <div class="gate-title">Helouuuww &#x1F90D;</div>
   <div class="gdiv"></div>
   <div class="gate-question">When did we first meet?</div>
   <div class="gate-choices">
@@ -193,7 +193,7 @@ footer{padding:4rem 1.5rem;text-align:center;display:flex;flex-direction:column;
 <section id="hero">
   <div class="age-badge" id="ageBadge">20</div>
   <div class="hero-name" id="heroName">Happy Birthday, Ate Esther!</div>
-  <div class="hero-sub" id="heroSub">A love letter for your 20th year</div>
+  <div class="hero-sub" id="heroSub">A letter for your 20th year</div>
   <div class="scroll-hint">scroll</div>
 </section>
 
@@ -214,7 +214,7 @@ footer{padding:4rem 1.5rem;text-align:center;display:flex;flex-direction:column;
     <p>I hope na you don't get stuck in that phase, na akala mo umiikot yung problems mo buong buhay mo sa kalagayan mo right now. Lilipas din yan. And may dadating pa sa life mo &#8212; tao o bagay na di mo pa nakikilala, bagong opportunity man yan o kahit bagong pagsubok pa. But whatever it will be, I am sure na anjan si Lord every step of the way.</p>
     <p>He may let you feel broken sometimes, but He will never abandon you.</p>
     <p>Just so you know &#8212; I am very proud of you. Kahit nafefeel mo man na napapalayo ka kay Lord, nakikita ko pa rin yung puso mo. Yung the fact na naalala mo pa rin si Jesus, na you still care kahit papano.</p>
-    <p>I also pray that you learn to accept and embrace yourself fully, kasama na ang mga insecurities na nararamdaman mo. You are an amazing woman. You don't need to change your appearance just to please other people.</p>
+    <p>I also pray that you learn to accept and embrace yourself fully, kasama na ang mga insecurities na nararamdaman mo. You are an amazing woman, atecco. You don't need to change your appearance just to please other people.</p>
     <p>Baka sa sobrang pagpapakumbaba mo, naiisip mong hindi ka karapat-dapat sa grace ni Lord. Hwag mong masyadong i-down ang sarili mo &#8212; sa paningin ni Lord, you are much more important than the sparrows. You're loved, deeply known, and highly valued by Him.</p>
     <p class="letter-verse">Matthew 10:29&#8211;31 &middot; Luke 12:6&#8211;7</p>
     <div class="letter-closing">Happy happy 20th birthday &#8212; wishing and praying for your physical and spiritual health. Enjoy your special day with Jesus! &#x1F90D;</div>
@@ -223,7 +223,7 @@ footer{padding:4rem 1.5rem;text-align:center;display:flex;flex-direction:column;
 
 <!-- LIFE COUNTER -->
 <section id="life-section">
-  <div class="life-label">She has been alive for</div>
+  <div class="life-label">Treasure every moments</div>
   <div class="life-title">Every second is God&#39;s gift &#10022;</div>
   <div class="life-grid">
     <div class="lbox"><div class="lbox-num" id="lc-years">0</div><div class="lbox-label">Years</div></div>
@@ -233,7 +233,7 @@ footer{padding:4rem 1.5rem;text-align:center;display:flex;flex-direction:column;
     <div class="lbox"><div class="lbox-num" id="lc-mins">0</div><div class="lbox-label">Minutes</div></div>
     <div class="lbox"><div class="lbox-num" id="lc-secs">0</div><div class="lbox-label">Seconds</div></div>
   </div>
-  <div class="life-verse">Known before you were formed &mdash; Jeremiah 1:5</div>
+  <div class="life-verse">Fearfully and wonderfully made &mdash; Psalm 139:14</div>
 </section>
 
 <!-- PRAYERS -->
@@ -544,7 +544,7 @@ function animateCake(){
       launchConfetti();launchConfetti();
       document.getElementById('cakeHint').style.display='none';
       const msg=document.getElementById('cake-msg');
-      msg.innerHTML='Happy 20th, Ate Esther! &#x1F382;<br><span style="font-size:0.85rem;color:var(--mocha)">May this year be filled with His love, joy, and every blessing you deserve.</span>';
+      msg.innerHTML='Happy 20th, Atecuu! &#x1F382;<br><span style="font-size:0.85rem;color:var(--mocha)">May this year be filled with His love, joy, and every blessing.</span>';
       msg.classList.add('show');
     }
   });
